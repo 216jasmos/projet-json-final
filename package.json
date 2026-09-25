@@ -1,0 +1,25 @@
+{
+  "name": "projet_final",
+  "version": "1.0.0",
+  "description": "projet final",
+  "main": "serveur.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch serveur.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Escazz9/Projet_final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Escazz9/Projet_final/issues"
+  },
+  "homepage": "https://github.com/Escazz9/Projet_final#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
